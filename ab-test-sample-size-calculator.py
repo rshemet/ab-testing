@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import scipy
+# import scipy
 from scipy.stats import norm
 from matplotlib import pyplot as plt
 
